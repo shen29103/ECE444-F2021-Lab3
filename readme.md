@@ -21,9 +21,9 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways
 
 **Activity 5**
 
-Functional requirement: The tool should implement a login system. Users should be able to create an account where they can list their preferences.
+Functional requirement: The tool should offer search suggestions based on what the user had previously searched for. 
 
-Non-functional requirement: The tool should have a more colorful user interface. In my opinion, the current user interface is very minimalistic and does not have a lot of colors. I would suggest adding more colors to make it more visually appealing.
+Non-functional requirement: The tool should have a more colorful user interface. In my opinion, the current user interface is very minimalistic and does not have a lot of colors. I would suggest adding more colors to make it more visually appealing. 
 
 
 
